@@ -21,9 +21,9 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="57dp"
-        android:layout_height="32dp"
-        android:background="@drawable/email"
+        android:layout_width="72dp"
+        android:layout_height="29dp"
+        android:background="@drawable/signup"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
