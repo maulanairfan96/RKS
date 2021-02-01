@@ -48,3 +48,7 @@ D. Values
 E. Manifest
 
     - AndroidManifest.xml
+
+F. Video saat running
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76784912/106416932-3a82a300-6485-11eb-9aec-10d21b5d648c.gif)
