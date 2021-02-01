@@ -51,4 +51,5 @@ E. Manifest
 
 F. Video saat running
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/76784912/106416932-3a82a300-6485-11eb-9aec-10d21b5d648c.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76784912/106417218-11164700-6486-11eb-8a63-82df98016284.gif)
+
